@@ -1,4 +1,4 @@
-package Interview;
+
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
